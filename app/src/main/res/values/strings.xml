@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NavDrawer</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="open" />
+    <string name="close" />
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="activity">ACTIVITY</string>
+    <string name="profile">Profile</string>
+    <string name="category">Category</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="privacy">Privacy</string>
+    <string name="cart">Cart</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="privacypage">Privacypage</string>
+    <string name="help_page">Help Page</string>
+    <string name="settings_page">Settings Page</string>
+    <string name="profile_page">Profile Page</string>
+</resources>
